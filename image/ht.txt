@@ -1,0 +1,4 @@
+https://reactnative.dev/docs/signed-apk-android
+
+cd android
+./gradlew assembleRelease
